@@ -42,7 +42,7 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=onyelechie&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/onyelechie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelechie&layout=compact&theme=vision-friendly-dark)](https://github.com/onyelechie/github-readme-stats)
 
 ---
 
