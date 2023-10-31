@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Ebere 👋🏾 👩🏾‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"> Hi, I'm Ebere 👋🏾 👨🏾‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/eberechukwu-onyelechie-80b81a225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
