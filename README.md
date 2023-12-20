@@ -44,3 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelechie&layout=compact&theme=vision-friendly-dark)](https://github.com/onyelechie/github-readme-stats)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=onyelechie)
