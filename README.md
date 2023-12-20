@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
 -I am an international student from Nigeria studying at the University of Manitoba.
 
@@ -44,6 +44,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelechie&layout=compact&theme=vision-friendly-dark)](https://github.com/onyelechie/github-readme-stats)
 
----
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
