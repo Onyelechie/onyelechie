@@ -11,7 +11,9 @@
 
 -I am an international student from Nigeria studying at the University of Manitoba.
 
--I work as a Software Developer at Limitless Aeronautics
+-I am a Quantitative Trader and Researcher Intern at Quantreo
+
+-I also work as a Software Developer at Limitless Aeronautics
 
 -How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ebere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eberechukwu-onyelechie-80b81a225/)
 
