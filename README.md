@@ -11,7 +11,7 @@
 
 -I am an international student from Nigeria studying at the University of Manitoba.
 
--I am a Quantitative Trader and Researcher Intern at Quantreo
+-I am a Data Analyst Intern at IG Wealth Management
 
 -I also work as a Software Developer at Limitless Aeronautics
 
