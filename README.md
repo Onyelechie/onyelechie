@@ -13,7 +13,7 @@
 
 -I am a Data Analyst Intern at IG Wealth Management
 
--I also work as a Software Developer at Limitless Aeronautics
+-I also work as a Software Engineer at Limitless Aeronautics
 
 -How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ebere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eberechukwu-onyelechie-80b81a225/)
 
