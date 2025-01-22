@@ -9,7 +9,7 @@
 
 ### &nbsp;About Me :
 - Interested in Software Engineering, Data Science and Quantitative Trading 
--I am studying at the University of Manitoba.
+- I am studying at the University of Manitoba.
 
 -How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ebere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eberechukwu-onyelechie-80b81a225/)
 
