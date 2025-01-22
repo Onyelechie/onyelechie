@@ -8,12 +8,8 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### &nbsp;About Me :
-
--I am an international student from Nigeria studying at the University of Manitoba.
-
--I am a Data Analyst Intern at IG Wealth Management
-
--I also work as a Software Engineer at Limitless Aeronautics
+- Interested in Software Engineering, Data Science and Quantitative Trading 
+-I am studying at the University of Manitoba.
 
 -How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ebere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eberechukwu-onyelechie-80b81a225/)
 
